@@ -1,3 +1,3 @@
 # pricing-cards
 
-Tailwindcss project - BradTraversy udemy course
+Tailwindcss project - Brad Traversy Udemy course
